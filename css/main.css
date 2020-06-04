@@ -1,0 +1,5 @@
+/* clear the default padding and margin from the browser**/
+*{
+    margin: 0px;
+    padding: 0px;
+}
